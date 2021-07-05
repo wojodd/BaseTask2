@@ -16,11 +16,11 @@ echo($row['right1']);
 echo("</td><td>");
 echo($row['left1']);
 echo("</td><td>");
-echo($row['up']);
+echo($row['forward']);
 echo "<tr><td>";
 echo($row['stop']);
 echo("</td><td>");
-echo($row['down']);
+echo($row['backward']);
 //echo("</td><td>");
 }
 echo "</table>\n"; // سيتم عرض بيانات العمود الاخير على شكل جدول 
