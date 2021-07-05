@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title></title>
+    <title>Base and Arm</title>
      <link rel="stylesheet" href="s.css"> 
 </head>
 <body>
